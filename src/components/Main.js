@@ -4,7 +4,7 @@ const Main = (props) => {
     return (
         <Container>
             <Content>
-                <p>This is a conection between the folder public and fonts</p>
+                <p>This is a conection between the folder public and fonts, git.</p>
             </Content>
         </Container>
     )
