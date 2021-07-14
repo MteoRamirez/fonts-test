@@ -1,0 +1,22 @@
+html{
+  scroll-behavior: smooth;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+a{
+  color: #f9f9f9;
+  text-decoration: none;
+}
+
+@font-face{
+  font-family:'silka semibold';
+  src:url('./fonts/Silka\ SemiBold.otf')
+}
+
+p{
+  font-family: silka semibold;
+  font-size: 12px;
+}
