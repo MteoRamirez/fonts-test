@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fonts-test/static/css/main.b45cd606.chunk.css",
+    "main.js": "/fonts-test/static/js/main.95ad6cf7.chunk.js",
+    "main.js.map": "/fonts-test/static/js/main.95ad6cf7.chunk.js.map",
+    "runtime-main.js": "/fonts-test/static/js/runtime-main.01eb655a.js",
+    "runtime-main.js.map": "/fonts-test/static/js/runtime-main.01eb655a.js.map",
+    "static/js/2.5712f580.chunk.js": "/fonts-test/static/js/2.5712f580.chunk.js",
+    "static/js/2.5712f580.chunk.js.map": "/fonts-test/static/js/2.5712f580.chunk.js.map",
+    "static/js/3.1c47efa5.chunk.js": "/fonts-test/static/js/3.1c47efa5.chunk.js",
+    "static/js/3.1c47efa5.chunk.js.map": "/fonts-test/static/js/3.1c47efa5.chunk.js.map",
+    "index.html": "/fonts-test/index.html",
+    "static/css/main.b45cd606.chunk.css.map": "/fonts-test/static/css/main.b45cd606.chunk.css.map",
+    "static/js/2.5712f580.chunk.js.LICENSE.txt": "/fonts-test/static/js/2.5712f580.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fonts-test/static/media/Silka SemiBold.3e78410b.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01eb655a.js",
+    "static/js/2.5712f580.chunk.js",
+    "static/css/main.b45cd606.chunk.css",
+    "static/js/main.95ad6cf7.chunk.js"
+  ]
+}
